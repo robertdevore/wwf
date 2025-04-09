@@ -261,3 +261,9 @@ h1, h2, h3, h4, h5, h6 {
 .hero-new {
     background-image: linear-gradient(to top left, #ff6900, #ff8904, #ffb86a);
 }
+
+@media (max-width: 600px) {
+    .header-fig {
+        max-width: 200px;
+    }
+}
