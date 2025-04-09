@@ -2,10 +2,10 @@
 @font-face {
     font-family: 'Bungee Spice';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     font-display: swap;
-    src: url('../fonts/bungee-spice-700.woff2') format('woff2'), 
-         url('../fonts/bungee-spice-700.ttf') format('truetype');
+    src: url('../fonts/bungee-spice-400.woff2') format('woff2'), 
+         url('../fonts/bungee-spice-400.ttf') format('truetype');
 }
 
 @font-face {
