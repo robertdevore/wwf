@@ -264,6 +264,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 600px) {
     .header-fig {
-        max-width: 200px;
+        max-width: 240px;
+        margin: 0 auto;
     }
 }
